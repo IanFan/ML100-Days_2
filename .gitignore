@@ -1,3 +1,7 @@
+# Exclude ML100-Days
+data/
+.ipynb_checkpoints
+
 # Exclude my test
 */MyTest
 
@@ -58,9 +62,3 @@ Podfile.lock
 
 # InjectionProject
 iOSInjectionProject/*
-
-# pdf
-resource/
-homework/data/
-homework/answer/
-homework/.ipynb_checkpoints
